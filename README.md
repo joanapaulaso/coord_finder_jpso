@@ -1,6 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/joanapaulaso/coord_finder_jpso/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fjoanapaulaso%2Fcoord_finder_jpso%2Fblob%2Fmain%2Fcoord_find.ipynb)
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/joanapaulaso/coord_finder_jpso/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fjoanapaulaso%2Fcoord_finder_jpso%2Fblob%2Fmain%2Fcoord_find.ipynb
+
  
  # Coordinates finder notebook
 
